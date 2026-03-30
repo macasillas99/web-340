@@ -1,2 +1,12 @@
-# web-340
-Repository for WEB 340 Node.js
+# WEB 340 Node.js
+
+
+
+## Contributors
+
+
+
+\- Instructor: Richard Krasso
+
+\- Maxine Casillas
+
