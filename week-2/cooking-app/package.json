@@ -1,0 +1,10 @@
+{
+  "name": "recipe-application",
+  "version": "1.0.0",
+  "description": "Simple recipe application using Node.js CommonJS modules",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node tester.js"
+  }
+}
