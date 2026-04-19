@@ -1,0 +1,9 @@
+
+> distance-calculator@1.0.0 test
+> node test/distance-calculator.spec.js
+
+Passed testEarthToMars
+Passed testVenusToJupiter
+Passed testNeptuneToNeptune
+
+3/3 tests passed.
