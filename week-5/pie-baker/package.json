@@ -1,0 +1,18 @@
+{
+  "name": "pie-baker",
+  "version": "1.0.0",
+  "description": "A TDD pie baking assignment using Jest.",
+  "main": "src/pie.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Maxine",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
